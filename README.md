@@ -12,6 +12,6 @@ Subject3 : A black circle turns the whole screen to black, the mouse pointer mak
 
 Subject4: Loads an image, add a black layer to the screen. The mouse pointer reveals the image.
 
-Realised with Edouard Puillandre.
+Realized with Edouard Puillandre.
 
 Grade : 102 / 100
